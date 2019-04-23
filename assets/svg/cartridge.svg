@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="81.832mm"
+   height="46.302mm"
+   version="1.1"
+   viewBox="0 0 81.832 46.302"
+   id="svg10"
+   sodipodi:docname="cartridge.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="922"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.97320831"
+     inkscape:cx="159.7808"
+     inkscape:cy="87.499839"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-61.61 -35.252)"
+     id="g8"
+     onclick="window.parent.cartridgeClicked()">
+    <path
+       transform="scale(.26458)"
+       d="m288.57 133.23c-28.443-1e-5 -51.76 21.105-55.248 48.57h-0.4668v126.43h309.29v-126.43h-0.4668c-3.4883-27.465-26.805-48.57-55.248-48.57z"
+       id="path4" />
+    <path
+       d="m78.052 35.318h51.783c0.94229 0 1.7009 0.7586 1.7009 1.7009v36.786c0 0.9423-0.7586 1.7009-1.7009 1.7009h-51.783c-0.9423 0-1.7009-0.7586-1.7009-1.7009v-36.786c0-0.9423 0.7586-1.7009 1.7009-1.7009z"
+       fill="#1a1a1a"
+       stroke-width=".26436"
+       id="path6" />
+  </g>
+</svg>

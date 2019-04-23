@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="161.97mm" height="142.71mm" version="1.1" viewBox="0 0 161.97 142.71" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-26.46 -22.789)">
+  <rect x="28.598" y="23.167" width="159.83" height="127.9" ry="8.3963" fill="#b3b3b3" stroke-width=".26786" style="paint-order:stroke fill markers"/>
+  <rect x="45.436" y="31.869" width="124.55" height="107.71" ry="9.206" fill="#1c241f" stroke-width=".28351" style="paint-order:stroke fill markers"/>
+  <g fill="#999">
+   <rect x="26.46" y="22.789" width="14.33" height="128.01" rx="7.1649" ry="5.5417" stroke-width=".23247" style="paint-order:stroke fill markers"/>
+   <rect x="175.72" y="23.167" width="12.44" height="127.64" rx="6.2199" ry="5.5254" stroke-width=".21628" style="paint-order:stroke fill markers"/>
+   <ellipse cx="107.18" cy="160.16" rx="78.043" ry="5.3454" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+   <rect x="62.007" y="150.27" width="97.019" height="10.156" ry=".74314" stroke-width=".25472" style="paint-order:stroke fill markers"/>
+  </g>
+  <rect x="52.385" y="36.145" width="111.18" height="98.89" fill="#536c67" stroke-width=".29433" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

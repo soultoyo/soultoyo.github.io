@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="161.96533mm"
+   height="142.71405mm"
+   viewBox="0 0 161.96533 142.71405"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="tv.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3790">
+      <g
+         id="use3792"
+         inkscape:label="Clip">
+        <rect
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="rect3896"
+           width="6.2366071"
+           height="2.3859749"
+           x="127.21261"
+           y="158.68434" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3898"
+           cx="128.11031"
+           cy="159.28674"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3900"
+           cx="129.62221"
+           cy="159.27492"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3902"
+           cx="132.05544"
+           cy="159.27492"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3904"
+           cx="130.89787"
+           cy="159.27493"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3906"
+           cx="128.84264"
+           cy="160.07812"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3908"
+           cx="130.30728"
+           cy="160.03088"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3910"
+           cx="131.58296"
+           cy="160.03088"
+           rx="0.14174107"
+           ry="0.12992932" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3790-9">
+      <g
+         id="use3792-1"
+         inkscape:label="Clip">
+        <rect
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="rect3914"
+           width="6.2366071"
+           height="2.3859749"
+           x="127.21261"
+           y="158.68434" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3916"
+           cx="128.11031"
+           cy="159.28674"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3918"
+           cx="129.62221"
+           cy="159.27492"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3920"
+           cx="132.05544"
+           cy="159.27492"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3922"
+           cx="130.89787"
+           cy="159.27493"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3924"
+           cx="128.84264"
+           cy="160.07812"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3926"
+           cx="130.30728"
+           cy="160.03088"
+           rx="0.14174107"
+           ry="0.12992932" />
+        <ellipse
+           style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+           id="ellipse3928"
+           cx="131.58296"
+           cy="160.03088"
+           rx="0.14174107"
+           ry="0.12992932" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3901">
+      <g
+         inkscape:label="Clip"
+         id="use3903">
+        <path
+           transform="scale(0.26458333)"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path217"
+           d="m 504.82422,310.73828 c -54.81586,0.0108 -170.84364,2.73343 -214.40625,7.75 v 0 c 1.05934,75.63927 0,153.29641 0,270.16602 h -0.50391 v 32.97684 l 437.39649,0.35714 V 588.6543 c 1.74979,-92.74069 1.24642,-208.11746 0,-270.16602 v 0 c -43.50944,-5.01046 -167.73736,-7.73275 -222.48633,-7.75 z"
+           style="fill:#666666;stroke:#666666;stroke-width:0.90150058" />
+        <rect
+           y="155.65363"
+           x="76.706429"
+           height="8.8196154"
+           width="115.72782"
+           id="rect219"
+           style="fill:#4d4d4d;stroke:#666666;stroke-width:0.26458332" />
+        <rect
+           y="157.99925"
+           x="126.24405"
+           height="3.96875"
+           width="17.670387"
+           id="rect221"
+           style="fill:#1a1a1a;stroke:#666666;stroke-width:0.26458332" />
+        <g
+           clip-path="url(#clipPath3790)"
+           id="g241">
+          <g
+             id="g239"
+             inkscape:label="Clip">
+            <rect
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="rect223"
+               width="6.2366071"
+               height="2.3859749"
+               x="127.21261"
+               y="158.68434" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse225"
+               cx="128.11031"
+               cy="159.28674"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse227"
+               cx="129.62221"
+               cy="159.27492"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse229"
+               cx="132.05544"
+               cy="159.27492"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse231"
+               cx="130.89787"
+               cy="159.27493"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse233"
+               cx="128.84264"
+               cy="160.07812"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse235"
+               cx="130.30728"
+               cy="160.03088"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse237"
+               cx="131.58296"
+               cy="160.03088"
+               rx="0.14174107"
+               ry="0.12992932" />
+          </g>
+        </g>
+        <g
+           clip-path="url(#clipPath3790-9)"
+           id="g261"
+           transform="translate(8.4572209,0.03543118)">
+          <g
+             id="g259"
+             inkscape:label="Clip">
+            <rect
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="rect243"
+               width="6.2366071"
+               height="2.3859749"
+               x="127.21261"
+               y="158.68434" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse245"
+               cx="128.11031"
+               cy="159.28674"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse247"
+               cx="129.62221"
+               cy="159.27492"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse249"
+               cx="132.05544"
+               cy="159.27492"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse251"
+               cx="130.89787"
+               cy="159.27493"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse253"
+               cx="128.84264"
+               cy="160.07812"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse255"
+               cx="130.30728"
+               cy="160.03088"
+               rx="0.14174107"
+               ry="0.12992932" />
+            <ellipse
+               style="fill:#ffffff;stroke:#666666;stroke-width:0.26458332"
+               id="ellipse257"
+               cx="131.58296"
+               cy="160.03088"
+               rx="0.14174107"
+               ry="0.12992932" />
+          </g>
+        </g>
+        <ellipse
+           ry="10.677828"
+           rx="43.561756"
+           cy="102.43675"
+           cx="135.78793"
+           id="ellipse263"
+           style="fill:#1a1a1a;stroke:#666666;stroke-width:0.26458332" />
+        <ellipse
+           ry="2.7403271"
+           rx="10.488839"
+           cy="144.77008"
+           cx="108.57366"
+           id="ellipse265"
+           style="fill:#ff0000;stroke:#666666;stroke-width:0.26458332" />
+        <ellipse
+           ry="2.7403274"
+           rx="10.488839"
+           cy="145.05357"
+           cx="161.9628"
+           id="ellipse267"
+           style="fill:#ff0000;stroke:#666666;stroke-width:0.26458332" />
+        <rect
+           y="99.507439"
+           x="99.029755"
+           height="5.8586307"
+           width="73.13839"
+           id="rect269"
+           style="fill:#1a1a1a;stroke:#666666;stroke-width:0.26458332" />
+        <rect
+           y="102.15327"
+           x="99.21875"
+           height="0.75595242"
+           width="72.854912"
+           id="rect271"
+           style="fill:#1a1a1a;stroke:#666666;stroke-width:0.26458332" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath81">
+      <g
+         id="use83"
+         inkscape:label="Clip">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke:#999999;stroke-width:0.26440716"
+           d="m 209.52942,85.285405 c -3.66448,0 -6.61458,2.950109 -6.61458,6.614579 v 24.568526 c 0,0.58858 0.0772,1.15873 0.22014,1.70119 v 9.41854 h 78.7461 v -10.48256 c 0.0198,-0.20961 0.031,-0.42219 0.031,-0.63717 V 91.899984 c 0,-3.66447 -2.9501,-6.614579 -6.61458,-6.614579 z"
+           id="path3944" />
+        <rect
+           style="fill:#4d4d4d;stroke:#999999;stroke-width:0.26458332"
+           id="rect3946"
+           width="65.767853"
+           height="29.104166"
+           x="209.71849"
+           y="89.065353" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath81-7">
+      <g
+         id="use83-5"
+         inkscape:label="Clip">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke:#999999;stroke-width:0.26440716"
+           d="m 209.52942,85.285405 c -3.66448,0 -6.61458,2.950109 -6.61458,6.614579 v 24.568526 c 0,0.58858 0.0772,1.15873 0.22014,1.70119 v 9.41854 h 78.7461 v -10.48256 c 0.0198,-0.20961 0.031,-0.42219 0.031,-0.63717 V 91.899984 c 0,-3.66447 -2.9501,-6.614579 -6.61458,-6.614579 z"
+           id="path3938" />
+        <rect
+           style="fill:#4d4d4d;stroke:#999999;stroke-width:0.26458332"
+           id="rect3940"
+           width="65.767853"
+           height="29.104166"
+           x="209.71849"
+           y="89.065353" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath81-9">
+      <g
+         inkscape:label="Clip"
+         id="use83-1">
+        <path
+           id="path3932"
+           d="m 209.52942,85.285405 c -3.66448,0 -6.61458,2.950109 -6.61458,6.614579 v 24.568526 c 0,0.58858 0.0772,1.15873 0.22014,1.70119 v 9.41854 h 78.7461 v -10.48256 c 0.0198,-0.20961 0.031,-0.42219 0.031,-0.63717 V 91.899984 c 0,-3.66447 -2.9501,-6.614579 -6.61458,-6.614579 z"
+           style="fill:#333333;stroke:#999999;stroke-width:0.26440716"
+           inkscape:connector-curvature="0" />
+        <rect
+           y="89.065353"
+           x="209.71849"
+           height="29.104166"
+           width="65.767853"
+           id="rect3934"
+           style="fill:#4d4d4d;stroke:#999999;stroke-width:0.26458332" />
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-573.49667"
+     inkscape:cy="-40.3688"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.459684,-22.78933)">
+    <g
+       id="g135">
+      <rect
+         ry="8.3962994"
+         y="23.167309"
+         x="28.597839"
+         height="127.90353"
+         width="159.82718"
+         id="rect4074"
+         style="fill:#b3b3b3;stroke-width:0.26785567;paint-order:stroke fill markers" />
+      <rect
+         ry="9.2059507"
+         y="31.868629"
+         x="45.435818"
+         height="107.70962"
+         width="124.5476"
+         id="rect4072"
+         style="fill:#1c241f;stroke-width:0.28350547;paint-order:stroke fill markers" />
+      <rect
+         rx="7.1648569"
+         ry="5.5417428"
+         y="22.78933"
+         x="26.459684"
+         height="128.01424"
+         width="14.329714"
+         id="rect4078"
+         style="fill:#999999;stroke-width:0.23247363;paint-order:stroke fill markers" />
+      <rect
+         inkscape:transform-center-y="-32.876006"
+         inkscape:transform-center-x="60.98974"
+         rx="6.2199163"
+         ry="5.5253801"
+         y="23.167309"
+         x="175.71793"
+         height="127.63626"
+         width="12.439833"
+         id="rect4078-6"
+         style="fill:#999999;stroke-width:0.21628186;paint-order:stroke fill markers" />
+      <ellipse
+         ry="5.3453903"
+         rx="78.042702"
+         cy="160.15799"
+         cx="107.17508"
+         id="path4119"
+         style="fill:#999999;stroke-width:0.26458332;paint-order:stroke fill markers" />
+      <rect
+         ry="0.74314022"
+         y="150.26903"
+         x="62.006527"
+         height="10.156242"
+         width="97.018837"
+         id="rect4121"
+         style="fill:#999999;stroke-width:0.25471959;paint-order:stroke fill markers" />
+      <rect
+         y="36.144943"
+         x="52.384827"
+         height="98.889725"
+         width="111.18412"
+         id="rect4070"
+         style="fill:#536c67;stroke-width:0.29432541;paint-order:stroke fill markers" />
+    </g>
+  </g>
+</svg>
