@@ -1,0 +1,127 @@
+:root {
+    --animation-duration: 4s;
+    --width: 600px;
+    --height: 1000px;
+    --circle-width: 200px;
+    --circle-height: 200px;
+    --font-size: 75px;
+}
+
+body {
+    background: #e1a95f;
+}
+
+.container {
+    position: absolute;
+    width: var(--width);
+    height: var(--height);
+    left: calc(50% - var(--width) / 2);
+    top: calc(25% - var(--height) / 2);
+    display: block;
+}
+
+.inner {
+    position: absolute;
+    top: 0;
+    animation-duration: var(--animation-duration);
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+    width: var(--width);
+    height: var(--height);
+}
+
+#github-outer {
+    animation-name: github-orbit;
+}
+
+#linkedin-outer {
+    animation-name: linkedin-orbit;
+    animation-delay: 2s;
+}
+
+#instagram-outer {
+    animation-name: instagram-orbit;
+    animation-delay: 4s;
+}
+
+.centre-inner {
+    position: absolute;
+    width: var(--circle-width);
+    height: var(--circle-height);
+    border-radius: 100%;
+    transform: scale(2);
+    top: calc(50% - var(--circle-height) / 2);
+    left: calc(50% - var(--circle-width) / 2);
+
+    background: url("/assets/images/profile.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat; 
+}
+
+.icon-counter-rotation {
+    position: absolute;
+    left: -calc(50% - var(--font-size) / 2);
+    animation-name: counter-rotation;
+    animation-duration: var(--animation-duration);
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+    z-index: 0;
+}
+
+#github-icon {
+    animation-delay: 0s;    
+}
+
+#linkedin-icon {
+    animation-delay: 2s;
+}
+
+#instagram-icon {
+    animation-delay: 4s;
+}
+
+@keyframes counter-rotation {
+    50% {
+        transform: rotateZ(-180deg);
+    }
+
+    100% {
+        transform: rotateZ(-180deg);
+    }
+}
+
+@keyframes github-orbit {
+    50% {
+        transform: rotateZ(180deg);
+    }
+
+    100% {
+        transform: translateX(calc(-1  * var(--width))) rotateZ(180deg);
+    }
+}
+
+@keyframes linkedin-orbit {
+    50% {
+        transform: rotateZ(180deg);
+    }
+
+    100% {
+        transform: translateX(calc( -1 * var(--width) / 2)) rotateZ(180deg);
+    }
+}
+
+@keyframes instagram-orbit {
+    50% {
+        transform: rotateZ(180deg);
+    }
+
+    100% {
+        transform:  rotateZ(180deg);
+    }
+}
+
+
+
+.icon {
+    font-size: var(--font-size);
+}
