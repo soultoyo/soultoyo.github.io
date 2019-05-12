@@ -1,6 +1,6 @@
 :root {
     --animation-duration: 4s;
-    --width: 600px;
+    --width: 150px;
     --height: 1000px;
     --circle-width: 200px;
     --circle-height: 200px;
@@ -41,6 +41,7 @@ body {
 
 #instagram-outer {
     animation-name: instagram-orbit;
+    left: 150px;
     animation-delay: 4s;
 }
 
@@ -55,7 +56,7 @@ body {
 
     background: url("/assets/images/profile.jpg");
     background-size: 100%;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
 }
 
 .icon-counter-rotation {
@@ -65,11 +66,10 @@ body {
     animation-duration: var(--animation-duration);
     animation-fill-mode: forwards;
     animation-timing-function: linear;
-    z-index: 0;
 }
 
 #github-icon {
-    animation-delay: 0s;    
+    animation-delay: 0s;
 }
 
 #linkedin-icon {
@@ -96,7 +96,7 @@ body {
     }
 
     100% {
-        transform: translateX(calc(-1  * var(--width))) rotateZ(180deg);
+        transform: translateX(calc(-1 * var(--width) * 2)) rotateZ(180deg);
     }
 }
 
@@ -106,7 +106,7 @@ body {
     }
 
     100% {
-        transform: translateX(calc( -1 * var(--width) / 2)) rotateZ(180deg);
+        transform: translateX(calc(-1 * var(--font-size) / 2)) rotateZ(180deg);
     }
 }
 
@@ -116,11 +116,10 @@ body {
     }
 
     100% {
-        transform:  rotateZ(180deg);
+        transform: rotateZ(180deg);
+        transform: translateX(calc(var(--width) / 2)) rotateZ(180deg);
     }
 }
-
-
 
 .icon {
     font-size: var(--font-size);
