@@ -124,3 +124,7 @@ body {
 .icon {
     font-size: var(--font-size);
 }
+
+a {
+    position: relative;
+}
